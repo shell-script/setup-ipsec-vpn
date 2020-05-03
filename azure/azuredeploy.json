@@ -26,11 +26,12 @@
       "allowedValues": [
         "ubuntu1804",
         "ubuntu1604",
+        "debian10",
         "debian9"
       ],
-      "defaultValue": "debian9",
+      "defaultValue": "debian10",
       "metadata": {
-        "description": "OS to use. Debian 9 or Ubuntu 18.04/16.04 LTS"
+        "description": "OS to use. Debian 10/9 or Ubuntu 18.04/16.04 LTS"
       }
     },
     "VMSize": {
@@ -71,6 +72,12 @@
       "publisher": "Canonical",
       "offer": "UbuntuServer",
       "sku": "16.04-LTS",
+      "version": "latest"
+    },
+    "debian10": {
+      "publisher": "Debian",
+      "offer": "debian-10",
+      "sku": "10",
       "version": "latest"
     },
     "debian9": {
