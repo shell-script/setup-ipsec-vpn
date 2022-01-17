@@ -1,6 +1,6 @@
 # Advanced Usage
 
-*Read this in other languages: [English](advanced-usage.md), [简体中文](advanced-usage-zh.md).*
+*Read this in other languages: [English](advanced-usage.md), [简体中文](advanced-usage-zh.md).* &nbsp;&nbsp;<a href="https://blog.ls20.com/vpnfeedback" target="_blank">:memo:</a>
 
 * [Use alternative DNS servers](#use-alternative-dns-servers)
 * [DNS name and server IP changes](#dns-name-and-server-ip-changes)

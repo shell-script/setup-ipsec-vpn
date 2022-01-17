@@ -1,6 +1,6 @@
 # 在 Microsoft Azure 上部署
 
-*其他语言版本: [English](README.md), [简体中文](README-zh.md).*
+*其他语言版本: [English](README.md), [简体中文](README-zh.md).* &nbsp;&nbsp;<a href="https://blog.ls20.com/vpnfeedback" target="_blank">:memo:</a>
 
 使用这个模板，你可以在 Microsoft Azure Cloud 上快速搭建一个 VPN 服务器 （[定价细节](https://azure.microsoft.com/zh-cn/pricing/details/virtual-machines/)）。
 

@@ -1,6 +1,6 @@
 # 卸载 VPN
 
-*其他语言版本: [English](uninstall.md), [简体中文](uninstall-zh.md).*
+*其他语言版本: [English](uninstall.md), [简体中文](uninstall-zh.md).* &nbsp;&nbsp;<a href="https://blog.ls20.com/vpnfeedback" target="_blank">:memo:</a>
 
 * [使用辅助脚本卸载 VPN](#使用辅助脚本卸载-vpn)
 * [手动卸载 VPN](#手动卸载-vpn)
